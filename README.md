@@ -1,6 +1,6 @@
 # inZOI Keybinds Fix Mod
 
-This is a project to enable AZERTY and ARROWS key in the game inZOI to move the character.
+This is a project to enable AZERTY and ARROW keys in the game inZOI to move the character.
 
 ## How to use the mod
 
